@@ -4,7 +4,7 @@ Python application that tracks a user's blink frequency through their web-cam, a
   - Built with OpenCV, combined with DLib's facial landmark libraries
 
 Notes:
-  - Emailing feature can be enabled through modifying code. This is to prevent security worries.
+  - Emailing feature can be enabled by modifying code. This is to possible security concerns.
   - To enable emailing feature, enter report.py and make the follow edits:
   
      ```python
